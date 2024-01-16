@@ -19,7 +19,7 @@ function Banner({ fetchUrl }) {
 
   return( 
         <div style={{height:"600px",
-        backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 4) 0%, rgba(0, 0, 0, 0) 100%), url(${base_url}/${movie?.backdrop_path})`,
+        backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 5) 0%, rgba(0, 0, 0, 0) 100%), url(${base_url}/${movie?.backdrop_path})`,
         backgroundSize: 'cover',
         backgroundAttachment:'fixed'
         }}>

@@ -1,6 +1,7 @@
 .row{
     margin-left: 1.2rem;
     margin-bottom: 2.4rem;
+   
 }
 
 
@@ -8,6 +9,7 @@
     display: flex;
     margin-top: 20px;
     overflow-x: scroll;
+    gap: 2rem;
 }
 ::-webkit-scrollbar{
     display: none;
@@ -22,6 +24,7 @@
 .movies:hover{
     transition: ease-in-out 450ms;
     transform: scale(1.06); 
+    
 }
 .movie-poster{
     height: 350px;
@@ -29,3 +32,6 @@
 html{
     scroll-behavior: smooth;
 }
+
+
+
