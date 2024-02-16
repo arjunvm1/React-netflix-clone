@@ -19,7 +19,7 @@ function Nav() {
   return (
     <div>
         <div className={`${show && 'nav-black'} nav`}>
-            <img width={"150px"} src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logonetflix.png/1200px-Logonetflix.png" alt="" />
+            <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Logonetflix.png/1200px-Logonetflix.png" alt="" />
         </div>
     </div>
   )
