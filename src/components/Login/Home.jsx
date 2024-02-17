@@ -256,24 +256,24 @@ function Home() {
         <h2>Questions? call 0011-23654-789</h2>
         <div className="row">
           <div className="col">
-            <a href="#">FAQ</a>
-            <a href="#">Investor Relations</a>
-            <a href="#">Privacy</a>
-            <a href="">Speed Test</a>
+            <a href="/faq">FAQ</a>
+            <a href="/investor relations">Investor Relations</a>
+            <a href="/privacy">Privacy</a>
+            <a href="/speedtest">Speed Test</a>
           </div>
 
           <div className="col">
-            <a href="#">Help Center</a>
-            <a href="#">Jobs</a>
-            <a href="#">Cookies Preference</a>
-            <a href="">Legal Notices</a>
+            <a href="/help center">Help Center</a>
+            <a href="/jobs">Jobs</a>
+            <a href="/cookies preference">Cookies Preference</a>
+            <a href="/legal notices">Legal Notices</a>
           </div>
 
           <div className="col">
-            <a href="#">Account</a>
-            <a href="#">Ways to watch</a>
-            <a href="#">Corporate Information</a>
-            <a href="">Only on Netflix</a>
+            <a href="/accounts">Account</a>
+            <a href="/ways to watch">Ways to watch</a>
+            <a href="/CI">Corporate Information</a>
+            <a href="ooN">Only on Netflix</a>
           </div>
 
           <div className="col">
